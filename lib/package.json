@@ -1,0 +1,12 @@
+{
+  "name": "choui-tool-local",
+  "version": "1.0.0-alpha.0",
+  "repository": "https://github.com/choui666/Tools.git",
+  "author": "choui <choui20016514@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@angular/core": "^5.0.0",
+    "@angular/common": "^5.0.0"
+  }
+}
